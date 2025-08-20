@@ -1,2 +1,2 @@
 # BuildablesDataScienceFellowship
-This the work of My Buildables DataScience Fellowship 
+This is the work of My Buildables DataScience Fellowship 
