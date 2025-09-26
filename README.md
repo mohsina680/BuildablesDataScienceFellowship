@@ -35,30 +35,42 @@ Whether you're a beginner entering the field or a developer looking to upskill, 
 ## 📁 Repository Structure
 
 buildables-fellowship/
+
 ├── Week-01-Introduction/
+
 ├── Week-02-Statistics/
+
 ├── Week-03-Probability/
+
 ├── Week-04-Visualization/
+
 ├── Week-05-Feature-Engineering/
+
 ├── Week-06-ML-Basics/
+
 ├── Week-07-Model-Evaluation/
+
 ├── Week-08-Classification/
+
 ├── Week-09-Regression/
+
 ├── Week-10-Advanced-ML/
+
 ├── Week-11-Deployment/
+
 └── Week-12-Capstone/
 
 📚 Recommended Resources
 
-Python Documentation
+[Python Documentation](https://docs.python.org/3/)
 
-Pandas Documentation
+[Pandas Documentation](https://pandas.pydata.org/docs/)
 
-Scikit-learn Documentation
+[Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
-Matplotlib Documentation
+[Matplotlib Documentation](https://matplotlib.org/)
 
-TensorFlow Documentation
+[TensorFlow Documentation](https://www.tensorflow.org/api_docs)](https://www.tensorflow.org/api_docs)
 
 
 🤝 Contributing
@@ -67,11 +79,11 @@ Contributions, suggestions, and improvements are always welcome.
 
 To contribute:
 
-Fork the repository
+1.Fork the repository
 
-Create a feature branch:
+2.Create a feature branch:
 
-git checkout -b feature/your-feature
+3.git checkout -b feature/your-feature
 
 
 Commit and push your changes
