@@ -7,12 +7,12 @@
         "colab_type": "text"
       },
       "source": [
-        "<a href=\"https://colab.research.google.com/github/mohsina680/BuildablesDataScienceFellowship/blob/main/Clustering_Project_Task%2021\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+        "<a href=\"https://colab.research.google.com/github/mohsina680/DS-Practice-Projects/blob/main/Clustering_Project_Mall_Customer.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
     },
     {
       "cell_type": "code",
-      "execution_count": 18,
+      "execution_count": null,
       "id": "e25494e8",
       "metadata": {
         "colab": {
@@ -63,7 +63,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 19,
+      "execution_count": null,
       "id": "8f3fafa3",
       "metadata": {
         "colab": {
@@ -413,7 +413,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 20,
+      "execution_count": null,
       "id": "bb689d7a",
       "metadata": {
         "id": "bb689d7a",
@@ -529,7 +529,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 21,
+      "execution_count": null,
       "id": "aba968ff",
       "metadata": {
         "id": "aba968ff",
@@ -567,7 +567,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 22,
+      "execution_count": null,
       "id": "e02c2a61",
       "metadata": {
         "id": "e02c2a61",
@@ -1006,7 +1006,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 23,
+      "execution_count": null,
       "id": "09e992f7",
       "metadata": {
         "id": "09e992f7",
@@ -1466,7 +1466,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 24,
+      "execution_count": null,
       "id": "3e206c42",
       "metadata": {
         "id": "3e206c42",
@@ -1521,7 +1521,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 25,
+      "execution_count": null,
       "id": "32852e07",
       "metadata": {
         "id": "32852e07",
@@ -1873,7 +1873,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 26,
+      "execution_count": null,
       "id": "8b70b702",
       "metadata": {
         "id": "8b70b702",
@@ -1926,7 +1926,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 27,
+      "execution_count": null,
       "id": "ce41d423",
       "metadata": {
         "id": "ce41d423",
@@ -1972,7 +1972,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 28,
+      "execution_count": null,
       "id": "c6e82d5d",
       "metadata": {
         "id": "c6e82d5d",
